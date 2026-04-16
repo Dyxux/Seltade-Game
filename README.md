@@ -1,2 +1,2 @@
 # Seltade-Game
-A FPS game based on Bevy
+A Bevy-based Rust FPS game.
