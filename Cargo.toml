@@ -1,0 +1,11 @@
+[package]
+name = "seltade-engine"
+version = "0.18.1"
+edition = "2021"
+authors = ["Dyxux <dyxux@vivaldi.net>"]
+description = "A Bevy-based Rust FPS game."
+license = "GPL-3.0"
+repository = "https://github.com/Dyxux/Seltade-Game"
+
+[dependencies]
+bevy = "0.18.1"
